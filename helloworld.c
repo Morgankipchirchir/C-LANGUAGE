@@ -57,7 +57,7 @@ int main() {
    // printf("%d\n", h);//short
    // printf("%d\n", i);//unsigned short
    //printf("%d\n", j);
-   printf("%u\n", k);
+   //printf("%u\n", k);
    
     return 0;
 }
